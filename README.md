@@ -4,7 +4,7 @@
 
 In the following script, the Monte Carlo simulation of a particle collision experiment is carried out in the "Large Hadron Collider" (LCH), calculating the probability of collision for different events, taking into account different values of the particle radius.
 
-**2. Graphene network simulation**
+**2. Quantum Lattice Graphene Simulation**
 
 An analysis of the magnetism of a spin-doped graphene network is carried out using Monte Carlo simulation.
 
